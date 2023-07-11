@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "648fe088444fd58e8d3cac8b"
+  },
+  "frontLight": false,
+  "backLight": false,
+  "leftLight": false,
+  "rightLight": false,
+  "isStart": false,
+  "battery": 50,
+  "__v": 0,
+  "latitude": 15.24097467,
+  "longitude": 104.8441905
+}]
